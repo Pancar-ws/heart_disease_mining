@@ -32,7 +32,7 @@ Dataset yang digunakan adalah **Heart Disease Dataset** asli dari UCI Machine Le
 ## 🛠️ Struktur Direktori Repositori
 ```text
 ├── datasets/
-│   └── heart_new.csv                 # Dataset rekam medis klinis asli (303 sampel)
+│   └── heart.csv                 # Dataset rekam medis klinis asli (303 sampel)
 ├── notebooks/
 │   └── c45_vs_knn_heart.ipynb        # Jupyter Notebook utama (Code, Grid Search & CV)
 ├── reports/
