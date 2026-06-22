@@ -22,7 +22,7 @@ Proyek *data mining* ini bertujuan untuk melakukan klasifikasi tingkat risiko pe
 ---
 
 ## 📊 Informasi Dataset
-Dataset yang digunakan adalah **Heart Disease Dataset** asli dari UCI Machine Learning Repository (dikemas dalam berkas `heart_new.csv`).
+Dataset yang digunakan adalah **Heart Disease Dataset** asli dari UCI Machine Learning Repository (dikemas dalam berkas `heart.csv`).
 * **Jumlah Sampel:** 303 rekam medis pasien (Kondisi kelas seimbang: 160 sehat, 143 terindikasi sakit).
 * **Fitur Medis (13 Atribut):** Usia (`age`), Jenis Kelamin (`sex`), Tipe Nyeri Dada (`cp`), Tekanan Darah (`trestbps`), Kolesterol (`chol`), Gula Darah (`fbs`), ECG (`restecg`), Detak Jantung Maksimum (`thalach`), Angina (`exang`), Oldpeak (`oldpeak`), Slope (`slope`), CA (`ca`), dan Thal (`thal`).
 * **Target Variabel:** Status indikasi penyakit jantung (`target`: 0 = Absent/Sehat, 1 = Present/Sakit).
